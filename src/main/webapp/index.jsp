@@ -1,8 +1,8 @@
 <html>
 <body>
 <h2>HOLA MUNDO</h2>
-<h2>Pedro Pablo Contreras, Daniel Andrés Ledesma y Samir David Díaz</h2>
-<h2>Politécnico internacional</h2>
-<h2>Mayo 2021</h2>
+<h3>Pedro Pablo Contreras, Daniel Andrés Ledesma y Samir David Díaz</h3>
+<h4>Politécnico internacional</h4>
+<h5>Mayo 2021</h5>
 </body>
 </html>
